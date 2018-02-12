@@ -10,7 +10,7 @@ namespace git_demo
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("hello world edit rtrtyrt sdsdf welcome to vice city");
+            Console.WriteLine("hello world edit removed");
         }
     }
 }
